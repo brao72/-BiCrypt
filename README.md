@@ -70,7 +70,7 @@ Follow these comprehensive steps to set up the **Two-User Encryption** project o
    Ensure that all required files and directories are present. Your project structure should resemble the following:
 
    ```bash
-   two_user_encryption/
+   BiCrypt/
    ├── src/
    │   ├── __init__.py
    │   ├── keygen.py
