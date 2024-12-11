@@ -13,14 +13,11 @@
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
-**Two-User Encryption** is a demonstration application that showcases secure communication between two users using RSA-like cryptography. The application provides a user-friendly interface built with Tkinter, allowing users to encrypt and decrypt messages seamlessly. This project is intended for educational purposes, illustrating the fundamentals of public-key cryptography and GUI development in Python.
-
-![Project Screenshot](screenshots/project_screenshot.png)
-
-*Screenshot of the Two-User Encryption GUI.*
+**Two-User Encryption** is a demonstration application that facilitates secure communication between two users using RSA-like cryptography. The application provides a user-friendly interface built with Tkinter, allowing users to encrypt and decrypt messages seamlessly. This project is intended for educational purposes, illustrating the fundamentals of public-key cryptography and GUI development in Python.
 
 ## Features
 
@@ -46,11 +43,12 @@
 
 ## Installation
 
-Follow these steps to set up the **Two-User Encryption** project on your local machine.
+Follow these comprehensive steps to set up the **Two-User Encryption** project on your local machine.
 
 ### Prerequisites
 
 - **Python 3.x** installed on your system. You can download it from [here](https://www.python.org/downloads/).
+- **Git** installed on your system. You can download it from [here](https://git-scm.com/downloads).
 
 ### Steps
 
